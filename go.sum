@@ -28,8 +28,8 @@ github.com/rs/zerolog v1.30.0/go.mod h1:/tk+P47gFdPXq4QYjvCmT5/Gsug2nagsFWBWhAiS
 github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
 github.com/stretchr/testify v1.6.1/go.mod h1:6Fq8oRcR53rry900zMqJjRRixrwX3KX962/h/Wwjteg=
 github.com/stretchr/testify v1.8.4 h1:CcVxjf3Q8PM0mHUKJCdn+eZZtm5yQwehR5yeSVQQcUk=
-github.com/tynov/kernal v1.57.52 h1:dGo5UVRW/XVJ1TaT/GrKGcTuil3zGW5joBMhG8Bdwdk=
-github.com/tynov/kernal v1.57.52/go.mod h1:RJ2PCnvR5LhzBp9Q9Ltqx79h/7Yg3FTJhZ1EkuwgE3I=
+github.com/tynov/kernal v1.57.53 h1:5XMU85oSRtrH+yYmRY4xtPtxE+MKz/c98GujqeON/2M=
+github.com/tynov/kernal v1.57.53/go.mod h1:RJ2PCnvR5LhzBp9Q9Ltqx79h/7Yg3FTJhZ1EkuwgE3I=
 golang.org/x/sys v0.0.0-20210630005230-0f9fa26af87c/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
 golang.org/x/sys v0.0.0-20210927094055-39ccf1dd6fa6/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
 golang.org/x/sys v0.1.0/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
