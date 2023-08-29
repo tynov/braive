@@ -4,7 +4,7 @@ go 1.20
 
 require (
 	github.com/kevinburke/go-bindata v1.1.0
-	github.com/tynov/kernal v0.0.0-20230829062544-feef575d80a7
+	github.com/tynov/kernal v1.57.50
 )
 
 require (
