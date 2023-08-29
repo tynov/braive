@@ -28,10 +28,8 @@ github.com/rs/zerolog v1.30.0/go.mod h1:/tk+P47gFdPXq4QYjvCmT5/Gsug2nagsFWBWhAiS
 github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
 github.com/stretchr/testify v1.6.1/go.mod h1:6Fq8oRcR53rry900zMqJjRRixrwX3KX962/h/Wwjteg=
 github.com/stretchr/testify v1.8.4 h1:CcVxjf3Q8PM0mHUKJCdn+eZZtm5yQwehR5yeSVQQcUk=
-github.com/tynov/kernal v0.0.0-20230829062544-feef575d80a7 h1:0ynqu+3zHiMzI8geIURyUn0cujMuBkKi2vQLauY51m0=
-github.com/tynov/kernal v0.0.0-20230829062544-feef575d80a7/go.mod h1:eDOXhgoDFkUdsD6qKizD+Wd4fGto1BcWtWiK7U1MNGk=
-github.com/ynowk/kernal v1.56.20 h1:cwuBkJ4JzRC9ySnZSCt2ozpvAmBVQKbmQ7ikFKag10M=
-github.com/ynowk/kernal v1.56.20/go.mod h1:8dIb/qCI0S9Aj6qJliSpP/U2ksgFlqjK0Jwg44omuB4=
+github.com/tynov/kernal v1.57.50 h1:u5YsdIsRtQUfuc04ziaDEqb20uzHgP3FoM9US1Ur6NY=
+github.com/tynov/kernal v1.57.50/go.mod h1:RJ2PCnvR5LhzBp9Q9Ltqx79h/7Yg3FTJhZ1EkuwgE3I=
 golang.org/x/sys v0.0.0-20210630005230-0f9fa26af87c/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
 golang.org/x/sys v0.0.0-20210927094055-39ccf1dd6fa6/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
 golang.org/x/sys v0.1.0/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
